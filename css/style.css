@@ -6,6 +6,7 @@
 
 header {
     background-color: white;
+    margin-bottom: 30px;
 }
 
 header .logo {
@@ -23,9 +24,25 @@ header h1 {
     font-weight: 900;
 }
 
+hr {
+    color: rgba(234, 225, 225, 0.4);
+}
 
 body {
     background-color: rgba(234, 225, 225, 0.4);
+}
+
+main {
+    width: 1000px;
+    background-color: white;
+    margin: auto;
+    border-radius: 10px;
+}
+
+nav {
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 10px;
 }
 
 nav .blue-button {
@@ -44,6 +61,12 @@ nav .white-button {
     background-color: white;
     color: rgba(150, 147, 147, 0.5);
     font-weight: bold;
+}
+
+.main-body {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
 }
 
 .navigazione {
@@ -75,3 +98,4 @@ nav .white-button {
 .red-check-r {
     color: red;
 }
+
