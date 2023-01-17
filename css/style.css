@@ -29,7 +29,7 @@ body {
 }
 
 nav .blue-button {
-    padding: 8px 8px;
+    padding: 8px;
     border-radius: 8px;
     border: none;
     background-color: rgba(87, 125, 241, 0.818);
@@ -38,10 +38,40 @@ nav .blue-button {
 }
 
 nav .white-button {
-    padding: 8px 8px;
+    padding: 8px;
     border-radius: 8px;
     border: 2px solid rgba(150, 147, 147, 0.5);
     background-color: white;
     color: rgba(150, 147, 147, 0.5);
     font-weight: bold;
+}
+
+.navigazione {
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.green-check {
+    padding: 3px;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid green
+   
+}
+
+.green-check-g {
+    color: green;
+}
+
+.red-check {
+    padding: 3px;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid red
+
+}
+
+.red-check-r {
+    color: red;
 }
