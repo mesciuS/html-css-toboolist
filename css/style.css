@@ -77,6 +77,11 @@ nav .white-button {
     padding-bottom: 20px;
 }
 
+li {
+    padding-bottom: 25px;
+    list-style-type: none;
+}
+
 .green-check {
     padding: 3px;
     background-color: white;
@@ -101,7 +106,87 @@ nav .white-button {
     color: red;
 }
 
-li {
-    padding-bottom: 25px;
-    list-style-type: none;
+.written-items {
+    padding-left: 10px;
+    font-family: sans-serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.editorial {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    border: none;  
+    background-color: rgb(109, 193, 246);
+    font-family: sans-serif;
+    font-size: small;
+    color: white;
+}
+
+.goals {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    border: none;  
+    background-color: rgb(122, 12, 226);
+    font-family: sans-serif;
+    font-size: small;
+    color: white;
+}
+
+.recruiting {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    border: none;  
+    background-color: rgb(85, 170, 59);
+    font-family: sans-serif;
+    font-size: small;
+    color: white;
+}
+
+.mobile {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    border: none;  
+    background-color: rgb(233, 173, 22);
+    font-family: sans-serif;
+    font-size: small;
+    color: white;
+}
+
+.website {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    border: none;  
+    background-color: rgb(222, 55, 197);
+    font-family: sans-serif;
+    font-size: small;
+    color: white;
+}
+
+.sales {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    border: none;  
+    background-color: rgba(125, 167, 105, 0.786);
+    font-family: sans-serif;
+    font-size: small;
+    color: white;
 }
