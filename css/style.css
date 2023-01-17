@@ -19,6 +19,8 @@ header h1 {
     display: inline-block;
     line-height: 75px;
     vertical-align: text-bottom;
+    font-family: sans-serif;
+    font-weight: 900;
 }
 
 
