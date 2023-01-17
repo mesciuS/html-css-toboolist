@@ -27,3 +27,21 @@ header h1 {
 body {
     background-color: rgba(234, 225, 225, 0.4);
 }
+
+nav .blue-button {
+    padding: 8px 8px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgba(87, 125, 241, 0.818);
+    color: white;
+    font-weight: bold;
+}
+
+nav .white-button {
+    padding: 8px 8px;
+    border-radius: 8px;
+    border: 2px solid rgba(150, 147, 147, 0.5);
+    background-color: white;
+    color: rgba(150, 147, 147, 0.5);
+    font-weight: bold;
+}
